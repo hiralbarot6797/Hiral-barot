@@ -1,0 +1,13 @@
+[
+  {
+    "role": "Full stack Developer",
+    "organisation": "Freelancer",
+    "startDate": "Dec, 2022",
+    "endDate": "Present",
+    "experiences": ["Developed 15+ responsive front-end interfaces using HTML, CSS, and JavaScript, with a 95% client satisfaction rate.",
+ "Conducted thorough testing and debugging for 20+ projects, resulting in a 30% reduction in bugs and errors.",
+ "Utilized version control systems such as Git and SVN for 10+ projects, ensuring seamless collaboration and code management.",
+ "Improved website loading speed by an average of 25% for 5 clients through optimization techniques."],
+    "imageSrc": "history/google.png"
+  }
+]

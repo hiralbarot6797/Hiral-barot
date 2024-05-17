@@ -1,13 +1,14 @@
 @import "../../vars.css";
 
 .container {
-  margin-top: 76px;
-  color: var(--color-text);
+  padding: 30px;
+  margin-top: 79px;
   margin-left: 10%;
   margin-right: 10%;
 }
 
 .title {
+  color: var(--color-text);
   font-size: 35px;
   font-weight: 700;
   letter-spacing: 1.75px;
@@ -15,12 +16,7 @@
 }
 
 .projects {
-  margin-top: 37px;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
- 
-  justify-content: center;
-  gap: 15px;
-  width: 100%;
+  width: 80%;
+  margin: 0 auto;
 }
+
